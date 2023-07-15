@@ -20,10 +20,12 @@
 # var5= 5 +6j
 # print (var5)
 # print (type(var5))
-str1 = "hello"
-str2 = 'y'+ str1[1:]
-print (str2 )
 
-var = "hellow"
-var = var [:2]+ "mm"+var [4:]
-print (var)
+
+# str1 = "hello"
+# str2 = 'y'+ str1[1:]
+# print (str2 )
+
+# var = "hellow"
+# var = var [:2]+ "mm"+var [4:]
+# print (var)
